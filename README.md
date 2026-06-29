@@ -1,0 +1,1 @@
+# gsap_drawsvg-with-splitpaths-helper-function
